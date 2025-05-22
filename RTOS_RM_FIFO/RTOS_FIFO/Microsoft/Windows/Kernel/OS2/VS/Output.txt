@@ -1,0 +1,14 @@
+ 1	Completion	  task( 1)( 0)	  task( 2)( 0)		 1		 0		2
+ 3	Completion	  task( 2)( 0)	  task( 1)( 1)		 2		 0		5
+ 4	Completion	  task( 1)( 1)	  task( 3)( 0)		 1		 0		2
+ 7	Completion	  task( 3)( 0)	  task( 1)( 2)		 3		 0		9
+ 8	Completion	  task( 1)( 2)	  task( 2)( 1)		 2		 1		1
+10	Completion	  task( 2)( 1)	  task( 1)( 3)		 2		 0		5
+11	Completion	  task( 1)( 3)	  task(63)		 2		 1		1
+12	Preemption	  task(63)	  task( 1)( 4)
+13	Completion	  task( 1)( 4)	  task(63)		 1		 0		2
+15	Preemption	  task(63)	  task( 1)( 5)
+16	Completion	  task( 1)( 5)	  task( 2)( 2)		 1		 0		2
+18	Completion	  task( 2)( 2)	  task( 3)( 1)		 3		 1		4
+21	Completion	  task( 3)( 1)	  task( 1)( 6)		 5		 2		7
+21	MissDeadline	  task( 1)( 6)	  -------------------
