@@ -1,0 +1,5 @@
+ 1	Preemption	  task(63)	  task( 2)( 0)
+ 2	Preemption	  task( 2)( 0)	  task( 1)( 0)
+ 8	Completion	  task( 1)( 0)	  task( 2)( 0)		 6		 0		9
+14	Completion	  task( 2)( 0)	  task(63)		 13		 6		7
+17	Preemption	  task(63)	  task( 1)( 1)
